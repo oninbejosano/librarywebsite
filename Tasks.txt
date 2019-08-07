@@ -1,0 +1,11 @@
+
+For Admin account:
+AddBooks page should have display date of availability if bookstatus is OUT - Onin
+
+For All User Account:
+Home page should show available books
+There should be a page for Password reset using secret question in Home Page
+	need html page
+	need model
+If books are tag Out it should not display Request for Books
+If Books are tag Avaialble it should show dates that are available.
