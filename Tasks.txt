@@ -4,7 +4,7 @@ AddBooks page should have display date of availability if bookstatus is OUT - On
 
 For All User Account:
 Home page should show available books
-There should be a page for Password reset using secret question in Home Page
+There should be a page for Password reset using secret question in Home Page - Harold
 	need html page
 	need model
 If books are tag Out it should not display Request for Books
